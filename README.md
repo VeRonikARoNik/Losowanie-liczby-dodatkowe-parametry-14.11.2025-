@@ -97,3 +97,11 @@ namespace Losowanie_liczby
 
 # Dodaj  dwa radiobutton parzyste i nieparzyste losowanie
 
+
+Wykonaj zrzut ekranu wykonanych zadań opisz dokumencie word
+
+e-mail: 
+wykonanezadania100@gmail.com
+
+
+
