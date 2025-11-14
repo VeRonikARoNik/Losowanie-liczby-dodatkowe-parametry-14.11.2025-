@@ -1,6 +1,6 @@
-# I
 
 # Losowanie-liczby-dodatkowe-parametry-14.11.2025
+# I
 
 <img width="906" height="532" alt="image" src="https://github.com/user-attachments/assets/763fdeac-45a2-4c3e-bdec-576010cd2724" />
 
@@ -95,5 +95,5 @@ namespace Losowanie_liczby
 
 # IV
 
-#Dodaj  dwa radiobutton parzyste i nieparzyste losowanie
+# Dodaj  dwa radiobutton parzyste i nieparzyste losowanie
 
