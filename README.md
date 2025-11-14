@@ -90,7 +90,7 @@ namespace Losowanie_liczby
 
 # III
 
-#Zadanie  zrób losowanie bez powturzeń 
+# Dodaj losowanie bez powturzeń 
 
 
 # IV
