@@ -1,4 +1,5 @@
-# Losowanie-liczby-dodatkowe-parametry-14.11.2025
+#I
+#Losowanie-liczby-dodatkowe-parametry-14.11.2025
 <img width="906" height="532" alt="image" src="https://github.com/user-attachments/assets/763fdeac-45a2-4c3e-bdec-576010cd2724" />
 
 ```
@@ -51,7 +52,7 @@ namespace Losowanie_liczby
 ```
 
 
-||
+#||
 
 
 # Dodaj liczbę losowań liczb
@@ -85,12 +86,12 @@ namespace Losowanie_liczby
 
 ```
 
-|||
+#|||
 
-Zadanie  zrób losowanie bez powturzeń 
+#Zadanie  zrób losowanie bez powturzeń 
 
 
-|V
+#|V
 
-Dodaj  dwa radiobutton parzyste i nieparzyste losowanie
+#Dodaj  dwa radiobutton parzyste i nieparzyste losowanie
 
